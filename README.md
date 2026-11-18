@@ -23,7 +23,7 @@ Rancagua, Chile
 
 ### Sobre mí
 
-Soy **Analista Programador titulado (INACAP)** y curso 3er año de Ingeniería en Informática. Vengo del **análisis de datos**: KPIs, reportes y dashboards con Power BI, Excel y SQL. Por eso diseño el software pensando primero en los datos que tiene que entregar.
+Soy **Analista Programador ** y curso 3er año de Ingeniería en Informática. Vengo del **análisis de datos**: KPIs, reportes y dashboards con Power BI, Excel y SQL. Por eso diseño el software pensando primero en los datos que tiene que entregar.
 
 Desarrollo aplicaciones web de punta a punta: interfaces en **React + TypeScript** y APIs REST en **Python / Django**.
 
