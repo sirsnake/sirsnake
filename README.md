@@ -21,7 +21,7 @@ Analista Programador (INACAP) · Estudiante de Ingeniería en Informática
 
 Desarrollo aplicaciones web de punta a punta: interfaces en **React + TypeScript** y APIs REST en **Python / Django**. Antes de programar trabajé en **análisis de datos** (KPIs, reportes y dashboards con Power BI, Excel y SQL), y hoy uno ambos mundos construyendo software que ayuda a tomar decisiones.
 
-Construí **GrowPyme** antes de que la IA generativa fuera lo que es hoy: el diseño, el modelo de datos y la lógica tributaria son míos. Hoy lo evoluciono con **desarrollo asistido por IA**, que uso como herramienta y no como muleta: dirijo el trabajo, reviso cada cambio y lo respaldo con pruebas. Diseño y opero **agentes de IA autohospedados** en mi propio servidor para automatizar tareas reales. Trabajo con **Scrum** y **pruebas unitarias** en cada entrega.
+Trabajo con **Scrum** y **pruebas unitarias**. Programo con asistencia de IA, y también diseño y opero **agentes autohospedados** en mi propio servidor para automatizar tareas del día a día.
 
 ---
 
@@ -34,8 +34,6 @@ Protocolos     MCP (memoria persistente, índice de código, documentación)
 Flujo          Planificar → implementar → revisar → validar con pruebas
 ```
 
-> La IA acelera el trabajo repetitivo; las decisiones de arquitectura, el modelado de datos y la revisión del código siguen siendo mías.
-
 ---
 
 ### Qué he construido
@@ -44,7 +42,7 @@ Flujo          Planificar → implementar → revisar → validar con pruebas
 |---|---|---|---|
 | 🏥 | **[urgencias-hospital](https://github.com/sirsnake/urgencias-hospital)** | Gestión de urgencias hospitalarias: atención prehospitalaria, triage ESI, diagnósticos CIE-10, gestión de camas, auditoría y PDFs. 4 roles con permisos. | Django REST · React · TS · MySQL |
 | 💬 | **Fonendo** · *práctica profesional* | Referencia y contrarreferencia de pacientes para la Red de Urgencia del Servicio de Salud O'Higgins. Chat en tiempo real con WebSockets y multimedia. Scrum + tests. | Django Channels · React · TS · Docker |
-| 📊 | **GrowPyme** · *privado* | ERP para PYMEs: facturación electrónica DTE, remuneraciones, dashboard tributario e integración con SII/TGR. Diseñado y construido sin asistencia de IA. Desplegado en servidor propio. | Django · React · PostgreSQL |
+| 📊 | **GrowPyme** · *privado* | ERP para PYMEs: facturación electrónica DTE, remuneraciones, dashboard tributario e integración con SII/TGR. Desplegado en servidor propio. | Django · React · PostgreSQL |
 | 🤖 | **Agentes de IA** · *privado* | Agentes autohospedados (Hermes Agent) integrados con APIs de LLMs: automatización programada de tareas y asistente de uso diario para un usuario final. | Python · LLM APIs · Linux |
 | 📈 | **Bots de trading** · *privado* | API de trading con FastAPI y experimentos de machine learning sobre datos de mercado. | Python · FastAPI · ML |
 
