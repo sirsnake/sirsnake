@@ -57,6 +57,7 @@ Datos         SQL · PostgreSQL · MySQL · Power BI · Excel
 IA            Desarrollo asistido por IA · Agentes autohospedados · APIs de LLMs · Automatización con cron
 Infra         Docker · Linux · Proxmox · AWS (formación) · Git
 Metodología   Scrum · Pruebas unitarias · APIs REST
+Aprendiendo   ETL · Data lakes
 ```
 
 <div align="center">
@@ -78,7 +79,11 @@ Metodología   Scrum · Pruebas unitarias · APIs REST
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirsnake&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sirsnake/sirsnake/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sirsnake/sirsnake/output/github-snake.svg" />
+  <img alt="Gráfico de contribuciones de sirsnake" src="https://raw.githubusercontent.com/sirsnake/sirsnake/output/github-snake-dark.svg" />
+</picture>
 
 <br/><br/>
 
