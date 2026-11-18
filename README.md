@@ -21,7 +21,20 @@ Analista Programador (INACAP) · Estudiante de Ingeniería en Informática
 
 Desarrollo aplicaciones web de punta a punta: interfaces en **React + TypeScript** y APIs REST en **Python / Django**. Antes de programar trabajé en **análisis de datos** (KPIs, reportes y dashboards con Power BI, Excel y SQL), y hoy uno ambos mundos construyendo software que ayuda a tomar decisiones.
 
-También diseño y opero **agentes de IA autohospedados** en mi propio servidor para automatizar tareas reales del día a día. Trabajo con **Scrum** y **pruebas unitarias** en cada entrega.
+Construí **GrowPyme** antes de que la IA generativa fuera lo que es hoy: el diseño, el modelo de datos y la lógica tributaria son míos. Hoy lo evoluciono con **desarrollo asistido por IA**, que uso como herramienta y no como muleta: dirijo el trabajo, reviso cada cambio y lo respaldo con pruebas. Diseño y opero **agentes de IA autohospedados** en mi propio servidor para automatizar tareas reales. Trabajo con **Scrum** y **pruebas unitarias** en cada entrega.
+
+---
+
+### Cómo trabajo
+
+```
+IA / Harness   Claude Code · OpenCode · Antigravity · Gentle Shell
+Agentes        Orquestación de agentes y subagentes · Skills propias
+Protocolos     MCP (memoria persistente, índice de código, documentación)
+Flujo          Planificar → implementar → revisar → validar con pruebas
+```
+
+> La IA acelera el trabajo repetitivo; las decisiones de arquitectura, el modelado de datos y la revisión del código siguen siendo mías.
 
 ---
 
@@ -31,7 +44,7 @@ También diseño y opero **agentes de IA autohospedados** en mi propio servidor 
 |---|---|---|---|
 | 🏥 | **[urgencias-hospital](https://github.com/sirsnake/urgencias-hospital)** | Gestión de urgencias hospitalarias: atención prehospitalaria, triage ESI, diagnósticos CIE-10, gestión de camas, auditoría y PDFs. 4 roles con permisos. | Django REST · React · TS · MySQL |
 | 💬 | **Fonendo** · *práctica profesional* | Referencia y contrarreferencia de pacientes para la Red de Urgencia del Servicio de Salud O'Higgins. Chat en tiempo real con WebSockets y multimedia. Scrum + tests. | Django Channels · React · TS · Docker |
-| 📊 | **GrowPyme** · *privado* | ERP para PYMEs: facturación electrónica DTE, remuneraciones, dashboard tributario e integración con SII/TGR. Desplegado en servidor propio. | Django · React · PostgreSQL |
+| 📊 | **GrowPyme** · *privado* | ERP para PYMEs: facturación electrónica DTE, remuneraciones, dashboard tributario e integración con SII/TGR. Diseñado y construido sin asistencia de IA. Desplegado en servidor propio. | Django · React · PostgreSQL |
 | 🤖 | **Agentes de IA** · *privado* | Agentes autohospedados (Hermes Agent) integrados con APIs de LLMs: automatización programada de tareas y asistente de uso diario para un usuario final. | Python · LLM APIs · Linux |
 | 📈 | **Bots de trading** · *privado* | API de trading con FastAPI y experimentos de machine learning sobre datos de mercado. | Python · FastAPI · ML |
 
@@ -43,7 +56,7 @@ También diseño y opero **agentes de IA autohospedados** en mi propio servidor 
 Frontend      React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind · Vite
 Backend       Python · Django · Django REST · FastAPI · WebSockets
 Datos         SQL · PostgreSQL · MySQL · Power BI · Excel
-IA            Agentes autohospedados · APIs de LLMs · Automatización con cron
+IA            Desarrollo asistido por IA · Agentes autohospedados · APIs de LLMs · Automatización con cron
 Infra         Docker · Linux · Proxmox · AWS (formación) · Git
 Metodología   Scrum · Pruebas unitarias · APIs REST
 ```
