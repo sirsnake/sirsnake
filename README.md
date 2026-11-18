@@ -6,12 +6,15 @@
 
 Analista Programador (INACAP) · Estudiante de Ingeniería en Informática
 <br/>
-🇨🇱 Chile · Disponible para trabajo remoto
+Rancagua, Chile · Disponible para trabajo remoto
 
 <br/>
 
-<a href="mailto:diego.mejiasgonzalez@gmail.com"><img src="https://img.shields.io/badge/Email-diego.mejiasgonzalez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" /></a>
-<a href="https://github.com/sirsnake/urgencias-hospital"><img src="https://img.shields.io/badge/Proyecto_destacado-urgencias--hospital-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" /></a>
+<a href="mailto:diego.mejiasgonzalez@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/diego-antonio-gonzalez-a7040154" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/sirsnake/urgencias-hospital" title="Proyecto destacado"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
+
+<sub>diego.mejiasgonzalez@gmail.com</sub>
 
 </div>
 
@@ -23,10 +26,10 @@ Soy **Analista Programador titulado (INACAP)** y curso 3er año de Ingeniería e
 
 Desarrollo aplicaciones web de punta a punta: interfaces en **React + TypeScript** y APIs REST en **Python / Django**.
 
-- 🏥 **Salud.** Desarrollé solo un sistema de urgencias hospitalarias: triage ESI, diagnósticos CIE-10, gestión de camas, auditoría y 4 roles con permisos.
-- 💬 **Trabajo en equipo.** En mi práctica profesional (Fonendo) participé en un chat en tiempo real para la Red de Urgencia del Servicio de Salud O'Higgins, con **Scrum** y **pruebas unitarias**.
-- 📊 **Producto propio.** Diseñé y construí GrowPyme desde cero: un ERP para PYMEs con facturación electrónica, remuneraciones e integración con SII y TGR. Corre en mi propio servidor y hoy lo sigo evolucionando con IA.
-- 🤖 **Agentes de IA.** Opero agentes autohospedados en Proxmox que automatizan tareas programadas y sirven de asistente diario a un usuario final.
+- **Salud.** Desarrollé solo un sistema de urgencias hospitalarias: triage ESI, diagnósticos CIE-10, gestión de camas, auditoría y 4 roles con permisos.
+- **Trabajo en equipo.** En mi práctica profesional (Fonendo) participé en un chat en tiempo real para la Red de Urgencia del Servicio de Salud O'Higgins, con **Scrum** y **pruebas unitarias**.
+- **Producto propio.** Diseñé y construí GrowPyme desde cero: un ERP para PYMEs con facturación electrónica, remuneraciones e integración con SII y TGR. Corre en mi propio servidor y hoy lo sigo evolucionando con IA.
+- **Agentes de IA.** Opero agentes autohospedados en Proxmox que automatizan tareas programadas y sirven de asistente diario a un usuario final.
 
 Busco un rol Full Stack donde se crucen el frontend y los datos.
 
@@ -45,13 +48,13 @@ Flujo          Planificar → implementar → revisar → validar con pruebas
 
 ### Qué he construido
 
-| | Proyecto | Descripción | Stack |
-|---|---|---|---|
-| 🏥 | **[urgencias-hospital](https://github.com/sirsnake/urgencias-hospital)** | Gestión de urgencias hospitalarias: atención prehospitalaria, triage ESI, diagnósticos CIE-10, gestión de camas, auditoría y PDFs. 4 roles con permisos. | Django REST · React · TS · MySQL |
-| 💬 | **Fonendo** · *práctica profesional* | Referencia y contrarreferencia de pacientes para la Red de Urgencia del Servicio de Salud O'Higgins. Chat en tiempo real con WebSockets y multimedia. Scrum + tests. | Django Channels · React · TS · Docker |
-| 📊 | **GrowPyme** · *privado* | ERP para PYMEs: facturación electrónica DTE, remuneraciones, dashboard tributario e integración con SII/TGR. Desplegado en servidor propio. | Django · React · PostgreSQL |
-| 🤖 | **Agentes de IA** · *privado* | Agentes autohospedados (Hermes Agent) integrados con APIs de LLMs: automatización programada de tareas y asistente de uso diario para un usuario final. | Python · LLM APIs · Linux |
-| 📈 | **Bots de trading** · *privado* | API de trading con FastAPI y experimentos de machine learning sobre datos de mercado. | Python · FastAPI · ML |
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| **[urgencias-hospital](https://github.com/sirsnake/urgencias-hospital)** | Gestión de urgencias hospitalarias: atención prehospitalaria, triage ESI, diagnósticos CIE-10, gestión de camas, auditoría y PDFs. 4 roles con permisos. | <img src="https://skillicons.dev/icons?i=django,react,ts,mysql" height="26" alt="django,react,ts,mysql" /> <br/><sub>Django REST · React · TS · MySQL</sub> |
+| **Fonendo** · *práctica profesional* | Referencia y contrarreferencia de pacientes para la Red de Urgencia del Servicio de Salud O'Higgins. Chat en tiempo real con WebSockets y multimedia. Scrum + tests. | <img src="https://skillicons.dev/icons?i=django,react,ts,docker" height="26" alt="django,react,ts,docker" /> <br/><sub>Django Channels · React · TS · Docker</sub> |
+| **GrowPyme** · *privado* | ERP para PYMEs: facturación electrónica DTE, remuneraciones, dashboard tributario e integración con SII/TGR. Desplegado en servidor propio. | <img src="https://skillicons.dev/icons?i=django,react,postgres" height="26" alt="django,react,postgres" /> <br/><sub>Django · React · PostgreSQL</sub> |
+| **Agentes de IA** · *privado* | Agentes autohospedados (Hermes Agent) integrados con APIs de LLMs: automatización programada de tareas y asistente de uso diario para un usuario final. | <img src="https://skillicons.dev/icons?i=python,linux" height="26" alt="python,linux" /> <br/><sub>Python · LLM APIs · Linux</sub> |
+| **Bots de trading** · *privado* | API de trading con FastAPI y experimentos de machine learning sobre datos de mercado. | <img src="https://skillicons.dev/icons?i=python,fastapi" height="26" alt="python,fastapi" /> <br/><sub>Python · FastAPI · ML</sub> |
 
 ---
 
@@ -69,20 +72,9 @@ Aprendiendo   ETL · Data lakes
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,python,django,fastapi&perline=10" alt="Frontend y backend" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,linux,git,github,githubactions,vscode,postman&perline=10" alt="Datos, infraestructura y herramientas" />
 
 <br/><br/>
 
