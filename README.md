@@ -10,7 +10,7 @@ Analista Programador (INACAP) · Estudiante de Ingeniería en Informática
 
 <br/>
 
-<a href="mailto:diego.mejiasgonzalez@gmail.com"><img src="https://img.shields.io/badge/Email-diego.mejiasgonzalez-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" /></a>
+<a href="mailto:diego.mejiasgonzalez@gmail.com"><img src="https://img.shields.io/badge/Email-diego.mejiasgonzalez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" /></a>
 <a href="https://github.com/sirsnake/urgencias-hospital"><img src="https://img.shields.io/badge/Proyecto_destacado-urgencias--hospital-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" /></a>
 
 </div>
@@ -19,9 +19,16 @@ Analista Programador (INACAP) · Estudiante de Ingeniería en Informática
 
 ### Sobre mí
 
-Desarrollo aplicaciones web de punta a punta: interfaces en **React + TypeScript** y APIs REST en **Python / Django**. Antes de programar trabajé en **análisis de datos** (KPIs, reportes y dashboards con Power BI, Excel y SQL), y hoy uno ambos mundos construyendo software que ayuda a tomar decisiones.
+Soy **Analista Programador titulado (INACAP)** y curso 3er año de Ingeniería en Informática. Vengo del **análisis de datos**: KPIs, reportes y dashboards con Power BI, Excel y SQL. Por eso diseño el software pensando primero en los datos que tiene que entregar.
 
-Trabajo con **Scrum** y **pruebas unitarias**. Programo con asistencia de IA, y también diseño y opero **agentes autohospedados** en mi propio servidor para automatizar tareas del día a día.
+Desarrollo aplicaciones web de punta a punta: interfaces en **React + TypeScript** y APIs REST en **Python / Django**.
+
+- 🏥 **Salud.** Desarrollé solo un sistema de urgencias hospitalarias: triage ESI, diagnósticos CIE-10, gestión de camas, auditoría y 4 roles con permisos.
+- 💬 **Trabajo en equipo.** En mi práctica profesional (Fonendo) participé en un chat en tiempo real para la Red de Urgencia del Servicio de Salud O'Higgins, con **Scrum** y **pruebas unitarias**.
+- 📊 **Producto propio.** Diseñé y construí GrowPyme desde cero: un ERP para PYMEs con facturación electrónica, remuneraciones e integración con SII y TGR. Corre en mi propio servidor y hoy lo sigo evolucionando con IA.
+- 🤖 **Agentes de IA.** Opero agentes autohospedados en Proxmox que automatizan tareas programadas y sirven de asistente diario a un usuario final.
+
+Busco un rol Full Stack donde se crucen el frontend y los datos.
 
 ---
 
