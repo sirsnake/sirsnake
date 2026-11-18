@@ -11,7 +11,8 @@ Rancagua, Chile · Disponible para trabajo remoto
 <br/>
 
 <a href="mailto:diego.mejiasgonzalez@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/diego-antonio-gonzalez-a7040154" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/diego-mejias-gonzalez-dev/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.instagram.com/diego_mejig/" title="Instagram"><img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram" /></a>&nbsp;
 <a href="https://github.com/sirsnake/urgencias-hospital" title="Proyecto destacado"><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" /></a>
 
 <sub>diego.mejiasgonzalez@gmail.com</sub>
