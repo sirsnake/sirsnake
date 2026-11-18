@@ -4,9 +4,9 @@
 
 **Desarrollador Full Stack · React + Django · Datos · Agentes de IA**
 
-Analista Programador (INACAP) · Estudiante de Ingeniería en Informática
+Analista Programador · Estudiante de Ingeniería en Informática
 <br/>
-Rancagua, Chile · Disponible para trabajo remoto
+Rancagua, Chile 
 
 <br/>
 
